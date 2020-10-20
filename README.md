@@ -9,6 +9,6 @@ Requirements
 * Show song and artist (choose random, don't repeat)
 * Tilt to faceUp or faceDown -> go to next song
 * When timer ends, show:
-  * name/artist for each of the songs in the round and random 
+  * name/artist for each of the songs in the round
   * random score
   * start button
